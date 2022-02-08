@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas <img height="40" src="https://c.tenor.com/rLOjyzhrq2cAAAAi/parrot-dancing-parrot.gif"></h1>
-<h3 align="center">A passionate Back-End/systems developer from France</h3>
+<h3 align="center">A passionate Back-End/Systems developer from France</h3>
 
 
 - 🔭 I’m currently working on getting my Engineering Degree
