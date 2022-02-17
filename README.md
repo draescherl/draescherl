@@ -9,26 +9,29 @@
 - ⚡ Fun fact: `curl parrot.live`
 
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=draescherl&theme=vue-dark&show_icons=true&hide_rank=true&count_private=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draescherl&theme=vue-dark&layout=compact&langs_count=10" />
-</p>
-
-
 <h2>My gear :</h2>
-Main workstation/Gaming machine :
+
+Main workstation :
 - Ryzen 5 5600x
 - RTX 3070 FE
 - 16GB RAM
 - 500GB NVMe storage
 - 1240GB SATA SSD storage
-<br>
+
+
 Laptop : 2020 Dell Latitude 5510
 - Intel Core i5 10210U
 - 8GB RAM
 - 500GB NVMe storage
 
+
 Home server :
 - Intel Core i5 4460
 - 8GB RAM
 - 240GB SATA SSD storage
+
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=draescherl&theme=vue-dark&show_icons=true&hide_rank=true&count_private=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=draescherl&theme=vue-dark&layout=compact&langs_count=10" />
+</p>
