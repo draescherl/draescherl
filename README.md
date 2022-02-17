@@ -22,7 +22,7 @@ Main workstation/Gaming machine :
 - 16GB RAM
 - 500GB NVMe storage
 - 1240GB SATA SSD storage
-
+<br>
 Laptop : 2020 Dell Latitude 5510
 - Intel Core i5 10210U
 - 8GB RAM
