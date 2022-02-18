@@ -19,9 +19,9 @@
 
 <table border="0" align="center">
   <tr>
-    <td><b style="font-size:30px">Main workstation</b></td>
-    <td><b style="font-size:30px">Laptop (2020 Dell Latitude 5510)</b></td>
-    <td><b style="font-size:30px">Home server</b></td>
+    <td><b style="font-size:30px">🖥️ Main workstation</b></td>
+    <td><b style="font-size:30px">💻 Laptop (2020 Dell Latitude 5510)</b></td>
+    <td><b style="font-size:30px">🖧 Home server</b></td>
   </tr>
   <tr>
     <td>
