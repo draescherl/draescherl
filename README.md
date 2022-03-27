@@ -7,6 +7,7 @@
 - 💬 Ask me about <b>anything</b> !
 - 📫 How to reach me: <a href="mailto:draescherl@cy-tech.fr">via email</a>
 - ⚡ Fun fact: `curl parrot.live`
+- 😄 Something funny : https://youtu.be/VX5rjTramis
 
 
 <p align= "center">
