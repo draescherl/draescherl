@@ -29,7 +29,7 @@
       - Ryzen 5 5600x <br>
       - RTX 3070 FE <br>
       - 16GB RAM <br>
-      - 500GB NVMe <br>
+      - 500GB NVMe SSD <br>
       - 1240GB SATA SSD <br>
     </td>
     <td>
@@ -39,7 +39,7 @@
     </td>
     <td>
       - Intel Core i5 4460 <br>
-      - 8GB RAM <br>
+      - 12GB RAM <br>
       - 240GB SATA SSD <br>
     </td>
   </tr>
