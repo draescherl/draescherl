@@ -35,7 +35,7 @@
     <td>
       - Intel Core i5 10210U <br>
       - 8GB RAM <br>
-      - 500GB NVMe <br>
+      - 500GB NVMe SSD <br>
     </td>
     <td>
       - Intel Core i5 4460 <br>
